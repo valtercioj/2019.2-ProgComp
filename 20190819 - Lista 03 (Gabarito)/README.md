@@ -1,2 +1,2 @@
-# Códigos referentes a Lista De Exercícios #03
+# Códigos referentes a Lista de Exercícios #03
 

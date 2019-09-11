@@ -1,2 +1,2 @@
-# Códigos referentes a Lista De Exercícios #05
+# Códigos referentes a Lista de Exercícios #05
 
