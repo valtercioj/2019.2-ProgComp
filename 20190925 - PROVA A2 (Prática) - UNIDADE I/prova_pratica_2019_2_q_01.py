@@ -5,7 +5,7 @@ massa_final    = massa_inicial
 tempo_segundos = 0
 
 # Calculando a massa final e o tempo decorrido
-while massa_final > 0.5:
+while massa_final >= 0.5:
    massa_final = massa_final / 2
    tempo_segundos += 50
 
