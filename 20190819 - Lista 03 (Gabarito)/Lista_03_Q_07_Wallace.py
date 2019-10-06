@@ -1,6 +1,6 @@
-A = int(input('Informe um valor de A: '))
-B = int(input('Informe um valor de B: '))
-C = int(input('Informe um valor de C: '))
+A = int(input('Informe o valor de A: '))
+B = int(input('Informe o valor de B: '))
+C = int(input('Informe o valor de C: '))
 
 if (A <= 0) or (B <=0) or (C <= 0):
     print ('foi informada um valor invalido')   
